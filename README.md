@@ -1,1 +1,1 @@
-# MallCustomers-Clustering
+# DiamondsPrice-LinearRegression
